@@ -1,0 +1,23 @@
+{
+  "name": "ptudw-1988304",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diennsg/ptudw-1988304.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diennsg/ptudw-1988304/issues"
+  },
+  "homepage": "https://github.com/diennsg/ptudw-1988304#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
