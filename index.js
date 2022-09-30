@@ -43,3 +43,10 @@ app.set('port', process.env.PORT || 3000);
 app.listen(app.get('port'), ()=>{
     console.log(`server is running on port ${app.get('port')}`);
 });
+
+// git init
+// git config --global --add safe.directory E:/bt/ptudw-1988304
+// heroku git:remote -m ptudw.1988304
+// git add . // >> Commit
+// git commit -m "chuoi message" // >> Sync changes
+// git push origin "main" // >> Deploy Branch -> "main" 
