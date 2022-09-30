@@ -34,6 +34,9 @@ app.get('/:page', (req,res)=>{
     res.render(page, {banner: banners[page]});
 });
 
+app.get('/sua', (req, res)=>{
+    res.send('sua tren remote repository');
+});
 // route goc
 app.get('/', (req, res)=>{
     res.render('index');
